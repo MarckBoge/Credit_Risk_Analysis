@@ -80,7 +80,7 @@ The results for the six machine learning models including their respective balan
 <img width="724" alt="Balanced Random Forest Classifier" src="https://user-images.githubusercontent.com/90155651/200509116-5df67f2c-613d-4aeb-a8b8-5886aaa58f57.png">
 
 
-. Balanced Accuracy: 0.7885466545953005
+1. Balanced Accuracy: 0.7885466545953005
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .70/.87
 
@@ -91,7 +91,7 @@ The results for the six machine learning models including their respective balan
 <img width="747" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/90155651/200510439-35fc2af9-a318-4506-b8d4-b8c7ae67ce18.png">
 
 
-. Balanced Accuracy: 0.9316600714093861
+1. Balanced Accuracy: 0.9316600714093861
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .92/.94
 
