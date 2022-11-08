@@ -39,16 +39,17 @@ The results for the six machine learning models including their respective balan
 
 ## Naive Random Oversampling
 
+<img width="770" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/90155651/200503469-c73ddd25-c4c4-4ae1-8c74-41611c4dc6c7.png">
 
 
-
-
-
-
+1. Balanced Accuracy: 0.6742571941946299
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .74/.61
 
 
 ## SMOTE Oversampling
 
+<img width="744" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/90155651/200505650-b0458807-566a-48ad-a34f-8364b57a01c2.png">
 
 
 
@@ -59,6 +60,7 @@ The results for the six machine learning models including their respective balan
 
 ## Undersampling
 
+<img width="720" alt="# Undersampling" src="https://user-images.githubusercontent.com/90155651/200505823-ce59ee8f-a64f-478e-88c5-39d6cc428846.png">
 
 
 
@@ -69,6 +71,7 @@ The results for the six machine learning models including their respective balan
 
 ## Combination Under-Over Sampling
 
+<img width="731" alt="# Combination (Over and Under) Sampling" src="https://user-images.githubusercontent.com/90155651/200505937-979f9989-f277-46f0-829a-34d37346e34d.png">
 
 
 
@@ -77,7 +80,8 @@ The results for the six machine learning models including their respective balan
 
 
 
-## Balanced Random Forest Classifier
+
+d Random Forest Classifier
 
 
 
