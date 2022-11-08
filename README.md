@@ -35,4 +35,66 @@ The purpose of the project is to explain how a machine learning algorithm is use
 ## Results
  
     
+The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
 
+## Naive Random Oversampling
+
+
+
+
+
+
+
+
+
+## SMOTE Oversampling
+
+
+
+
+
+
+
+
+
+## Undersampling
+
+
+
+
+
+
+
+
+
+## Combination Under-Over Sampling
+
+
+
+
+
+
+
+
+
+## Balanced Random Forest Classifier
+
+
+
+
+
+
+
+
+
+## Easy Ensemble AdaBoost Classifier
+
+
+
+
+
+
+
+
+
+## Summary
